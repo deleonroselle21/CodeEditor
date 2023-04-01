@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 
 import Editor from './components/Editor/Editor';
 
