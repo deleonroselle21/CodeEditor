@@ -1,0 +1,12 @@
+.editComponent__container{
+    height:calc(95vh/3);
+    overflow: hidden;
+}
+
+.editor-title{
+    font-weight: 600;
+   padding:0.4rem 1rem ;
+    background-color:black;
+    color: white;
+
+}

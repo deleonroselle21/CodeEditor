@@ -1,0 +1,23 @@
+.editor__container{
+    padding:1rem 0.75rem;
+   border: 1px solid gray;
+    display: grid;
+    gap:1rem;
+    box-shadow: 5px 5px 5px gray;
+    background-color: white;
+   
+}
+.output__container{
+    
+    overflow: visible;
+    height:100%;
+    box-shadow: 5px 5px 5px gray;
+    border: 1px solid gray;
+    background-color: white;
+   
+}
+.main{
+    display: grid;
+    grid-template-columns: 1.40fr 1fr;
+    gap:1rem;
+}
