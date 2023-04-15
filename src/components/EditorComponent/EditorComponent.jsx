@@ -16,6 +16,8 @@ const EditorComponent = (props) => {
         value,
         onChange
     } = props
+
+   
     function handleChange(editor,data,value){
         onChange(value);
     }
